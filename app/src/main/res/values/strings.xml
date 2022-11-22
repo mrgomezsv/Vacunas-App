@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">COVID APP</string>
+    <string name="app_name">Vacunación Android</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="Tab1">Home</string>
     <string name="Tab2">Perfil</string>
